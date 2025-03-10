@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/thanakornhongsranont/Documents/Code/ 北理工/Y2/OOP",
+      "program": "/Users/thanakornhongsranont/Documents/Code/ 北理工/Y2/OOP/build/Debug/outDebug"
+    }
+  ]
+}
